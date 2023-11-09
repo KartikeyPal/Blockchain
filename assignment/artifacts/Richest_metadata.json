@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "richestPerson",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"assignment/richest.sol": "Richest"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"assignment/richest.sol": {
+			"keccak256": "0x7f13dd897c3395edd725dc2b77a290bbec7d4c2ab65452905c334bfac5b9b46b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://49297743e7637975434ed3b66105a6c40242729869e4be3503365dd20474bd89",
+				"dweb:/ipfs/QmRgdhG7ERgKUmjPo9EXAeS69nmLMdPb6oPgdHyYwChYvU"
+			]
+		}
+	},
+	"version": 1
+}
