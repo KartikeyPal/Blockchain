@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"questins/3.sol": "myC"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"questins/3.sol": {
+			"keccak256": "0x2043099ae7cb7b19823fff3fd15de5d3284a3ad6c44c54a38c7efea051b80851",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://86785b97f23ee58db1ce67db11ad49556e384faa54b0b3a47af475b8d11d7b09",
+				"dweb:/ipfs/QmP1vCtwU6SSC47qBhxeZo3rx1vZt3oP7upRUdYyrZBFUP"
+			]
+		}
+	},
+	"version": 1
+}

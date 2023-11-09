@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "student",
+				"outputs": [
+					{
+						"internalType": "contract Student",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"questins/3.sol": "instudent"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"questins/3.sol": {
+			"keccak256": "0x44afa5283ac5bbfa7194b8a2b13bba1a5388ff394298a2cd76c61fc1b033c0e4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c92e14140421f7fcecc3df2a78cd8cd1366d6016494b320683e6137252d99e71",
+				"dweb:/ipfs/QmSmqwqXf3dorFkJqNBWqFggDW5GckhopDPjtdxsc2Ua7p"
+			]
+		}
+	},
+	"version": 1
+}

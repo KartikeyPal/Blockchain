@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "str1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "str2",
+						"type": "string"
+					}
+				],
+				"name": "question_one",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"questins/1.sol": "question1"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"questins/1.sol": {
+			"keccak256": "0xbf6ecaafe810cdcece6355e6777db359313c2c54da6da7403c0764986a9e2777",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://5c80eee865d7dd8c3d1d7bbe87fad76f4e820b2e353afca462540db679d59679",
+				"dweb:/ipfs/QmX59GvoVbW6Y1rcwhADzJSs3ZNUiFgY5xpegKKYGYpRby"
+			]
+		}
+	},
+	"version": 1
+}
